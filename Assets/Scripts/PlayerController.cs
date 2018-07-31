@@ -3,28 +3,32 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityStandardAssets.CrossPlatformInput;
 public class PlayerController : MonoBehaviour {
-    public float speed;
-    public float moveHorizontal;
-    public float moveVertical;
+    public float movespeed;
+    public Vector3 movement;
+    public Vector3 movevelocity;
     public Rigidbody rb;
     private Vector3 offset;
-    public GameObject camera;
+    public Camera camera;
     void Start()
     {
+        rb = GetComponent<Rigidbody>();
+        camera = FindObjectOfType<Camera>();
         offset = camera.transform.position - this.transform.position;
     }
-
+    void Update()
+    {
+        movement = new Vector3(CrossPlatformInputManager.GetAxisRaw("Horizontal"), 0, CrossPlatformInputManager.GetAxisRaw("Vertical"));
+        movevelocity = movement * movespeed;
+        transform.LookAt(transform.position + movement);
+    }
     void FixedUpdate()
     {
-        moveHorizontal = CrossPlatformInputManager.GetAxis("Horizontal");
-        moveVertical = CrossPlatformInputManager.GetAxis("Vertical");
-        Vector3 movement = new Vector3(moveHorizontal, 0.0f, moveVertical);
-        //transform.Translate()
-        rb.AddForce(movement * speed);
+        rb.velocity = movevelocity;
     }
     void LateUpdate()
     {
         // Set the position of the camera's transform to be the same as the player's, but offset by the calculated offset distance.
         camera.transform.position = this.transform.position + offset;
     }
+    
 }
