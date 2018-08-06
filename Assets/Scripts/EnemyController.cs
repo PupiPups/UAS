@@ -7,7 +7,7 @@ public class EnemyController : MonoBehaviour
     public float visionradius;
     Vector3 initialPosition;
     private Rigidbody rb;
-    public float movespeed = 10;
+    public float movespeed = 7;
     public PlayerController player;
     public float life;
     public GameObject gameController;
