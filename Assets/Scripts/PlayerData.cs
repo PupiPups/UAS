@@ -16,4 +16,12 @@ public class PlayerData : MonoBehaviour {
             Destroy(gameObject);
         }
 	}
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.tag == "Hurt")
+        {
+            life -= 5;
+        }
+
+    }
 }

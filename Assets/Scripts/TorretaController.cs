@@ -32,6 +32,7 @@ public class TorretaController : MonoBehaviour {
         if (life == 0)
         {
             gameController.objetivos += 1;
+            Destroy(gameObject);
         }
     }
     

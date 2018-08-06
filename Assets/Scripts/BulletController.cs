@@ -4,14 +4,10 @@ using UnityEngine;
 
 public class BulletController : MonoBehaviour
 {
-    public GameObject player;
-    public GameObject torreta;
     public float speed;
     // Use this for initialization
     void Start()
     {
-        player = GameObject.FindGameObjectWithTag("Player");
-        torreta = GameObject.FindGameObjectWithTag("Torreta");
     }
 
     // Update is called once per frame
@@ -21,18 +17,13 @@ public class BulletController : MonoBehaviour
     }
     void OnCollisionEnter(Collision col)
     {
-        if (col.gameObject.tag == "Player")
+        if (col.gameObject.tag == "Enemy")
         {
-            player.GetComponent<PlayerData>().life -= 10;
+            col.gameObject.GetComponent<EnemyController>().life -= 20;
             Destroy(gameObject);
         }
         if (col.gameObject.tag == "Wall")
         {
-            Destroy(gameObject);
-        }
-        if (col.gameObject.tag == "Torreta")
-        {
-            torreta.GetComponent<TorretaController>().life -= 10;
             Destroy(gameObject);
         }
     }

@@ -7,6 +7,27 @@ TagManager:
   - Bullet
   - Torreta
   - Wall
+  - Torreta 1
+  - Torreta 2
+  - Torreta 3
+  - Torreta 4
+  - Torreta 5
+  - Wall 1
+  - Wall 2
+  - Wall 3
+  - Wall 4
+  - Wall 5
+  - Wall 6
+  - Wall 7
+  - Wall 8
+  - Wall 9
+  - Wall 10
+  - Wall 11
+  - Wall 12
+  - Wall 13
+  - Wall 14
+  - Enemy
+  - Hurt
   layers:
   - Default
   - TransparentFX
