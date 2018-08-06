@@ -6,29 +6,30 @@ public class GunController : MonoBehaviour {
     public bool isFiring;
     public BulletController bullet;
     public float bulletSpeed;
-    public float timeBetweenShots;
-    public float shotCounter = 10;
     public Transform firePoint;
+    public float timeBetweenShots;
+    public float shotCounter;
 
 	// Use this for initialization
 	void Start () {
-		
-	}
+
+    }
 	
 	// Update is called once per frame
 	void Update () {
-        if (isFiring == true)
+        if (isFiring)
         {
-            BulletController newBullet = Instantiate(bullet, firePoint.position, firePoint.rotation) as BulletController;
-            newBullet.speed = bulletSpeed;
+            shotCounter -= Time.deltaTime;
+            if (shotCounter <= 0)
+            {
+                shotCounter = timeBetweenShots;
+                BulletController newBullet = (BulletController)Instantiate(bullet, firePoint.position, firePoint.rotation);
+                newBullet.speed = bulletSpeed;
+            }
         }
-	}
-    public void Fire()
-    {
-        isFiring = true;
-    }
-    public void NotFire()
-    {
-        isFiring = false;
+        else
+        {
+            shotCounter = 0;
+        }
     }
 }

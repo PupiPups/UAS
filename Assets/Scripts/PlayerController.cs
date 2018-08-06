@@ -5,10 +5,12 @@ using UnityStandardAssets.CrossPlatformInput;
 public class PlayerController : MonoBehaviour {
     public float movespeed;
     public Vector3 movement;
+    public Vector3 lookCam;
     public Vector3 movevelocity;
     public Rigidbody rb;
     private Vector3 offset;
     public Camera camera;
+    public GunController gun;
     void Start()
     {
         rb = GetComponent<Rigidbody>();
@@ -17,9 +19,11 @@ public class PlayerController : MonoBehaviour {
     }
     void Update()
     {
-        movement = new Vector3(CrossPlatformInputManager.GetAxisRaw("Horizontal"), 0, CrossPlatformInputManager.GetAxisRaw("Vertical"));
+        movement = new Vector3(CrossPlatformInputManager.GetAxis("Horizontal"), 0, CrossPlatformInputManager.GetAxis("Vertical"));
         movevelocity = movement * movespeed;
-        transform.LookAt(transform.position + movement);
+        lookCam = new Vector3(CrossPlatformInputManager.GetAxis("Horizontal_2"), 0, CrossPlatformInputManager.GetAxis("Vertical_2"));
+        transform.LookAt(transform.position + lookCam);
+        
     }
     void FixedUpdate()
     {
@@ -30,5 +34,12 @@ public class PlayerController : MonoBehaviour {
         // Set the position of the camera's transform to be the same as the player's, but offset by the calculated offset distance.
         camera.transform.position = this.transform.position + offset;
     }
-    
+    public void Fire()
+    {
+        gun.isFiring = true;
+    }
+    public void NotFire()
+    {
+        gun.isFiring = false;
+    }
 }
