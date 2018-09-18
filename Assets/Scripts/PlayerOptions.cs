@@ -28,7 +28,7 @@ public class PlayerOptions : MonoBehaviour {
             case 3: //panda
                     //codigo de ataque basico
                 break;
-            case 4:
+            case 4: //cabra
                 //codigo de ataque basico
                 break;
         }

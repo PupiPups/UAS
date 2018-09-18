@@ -4,31 +4,29 @@ using UnityEngine;
 using UnityStandardAssets.CrossPlatformInput;
 public class PlayerController : MonoBehaviour {
     public float movespeed;
-    public Vector3 movement;
+    public Vector2 movement;
     public Vector3 lookCam;
-    public Vector3 movevelocity;
-    public Rigidbody rb;
+    public Vector2 movevelocity;
+    public Rigidbody2D rb;
     private Vector3 offset;
     public Camera camera;
     public GunController gun;
+    public Transform gunLook;
+
     void Start()
     {
-        rb = GetComponent<Rigidbody>();
+        rb = GetComponent<Rigidbody2D>();
         camera = FindObjectOfType<Camera>();
         offset = camera.transform.position - this.transform.position;
         
     }
     void Update()
     {
-        movement = new Vector3(CrossPlatformInputManager.GetAxis("Horizontal"), 0, CrossPlatformInputManager.GetAxis("Vertical"));
+        movement = new Vector2(CrossPlatformInputManager.GetAxis("Horizontal"), CrossPlatformInputManager.GetAxis("Vertical"));
         movevelocity = movement * movespeed;
-        lookCam = new Vector3(CrossPlatformInputManager.GetAxis("Horizontal"), 0, CrossPlatformInputManager.GetAxis("Vertical"));
+        lookCam = new Vector3(0f,0f, CrossPlatformInputManager.GetAxis("Horizontal_2"));
+        gunLook.LookAt(gun.transform.position + lookCam);
         
-        if(gun.isFiring == true)
-        {
-            lookCam = new Vector3(CrossPlatformInputManager.GetAxis("Horizontal_2"), 0, CrossPlatformInputManager.GetAxis("Vertical_2"));
-        }
-        transform.LookAt(transform.position + lookCam);
     }
     void FixedUpdate()
     {
