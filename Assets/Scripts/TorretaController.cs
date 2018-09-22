@@ -31,7 +31,7 @@ public class TorretaController : MonoBehaviour {
         Debug.DrawLine(transform.position, target, Color.green);
         if (life == 0)
         {
-            gameController.objetivos += 1;
+
             Destroy(gameObject);
         }
     }

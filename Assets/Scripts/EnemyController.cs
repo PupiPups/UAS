@@ -35,7 +35,6 @@ public class EnemyController : MonoBehaviour
         }
         if(life == 0){
             Destroy(gameObject);
-            gameController.GetComponent<GameController>().objetivos++;
         }
 
     }

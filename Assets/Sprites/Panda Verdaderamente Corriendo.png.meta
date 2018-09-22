@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+guid: 6e43324d51f2cfb439046c91517c940d
+=======
 guid: 6792065244cfc954389db2518a942899
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
 TextureImporter:
   fileIDToRecycleName:
     21300000: Panda Verdaderamente Corriendo_0
@@ -117,17 +121,29 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 298
+<<<<<<< HEAD
+        y: 5210
+        width: 964
+        height: 1172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+=======
         y: 5079
         width: 978
         height: 1303
       alignment: 7
       pivot: {x: 0.5, y: 0}
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
+      spriteID: 50dc4510b4bd59141bc783cc98a2b9d6
+=======
       spriteID: 7f5e6f000128b944491533d41b1cb48f
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       vertices: []
       indices: 
       edges: []
@@ -136,18 +152,31 @@ TextureImporter:
       name: Panda Verdaderamente Corriendo_1
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
+        x: 1878
+        y: 5155
+        width: 966
+        height: 1215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+=======
         x: 1893
         y: 5064
         width: 951
         height: 1306
       alignment: 7
       pivot: {x: 0.5, y: 0}
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
+      spriteID: ab7d351c5de66664e8fb2ecc166737aa
+=======
       spriteID: 0e6a2cd826faf3447a6cbbe4d2abb4a7
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       vertices: []
       indices: 
       edges: []
@@ -156,18 +185,31 @@ TextureImporter:
       name: Panda Verdaderamente Corriendo_2
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
+        x: 3458
+        y: 5114
+        width: 966
+        height: 1244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+=======
         x: 3452
         y: 5079
         width: 972
         height: 1279
       alignment: 7
       pivot: {x: 0.5, y: 0}
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
+      spriteID: cbc3a9ef135e7004887168f52387ea51
+=======
       spriteID: 4eccb6f05a061d640befe0783ee1bb4e
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       vertices: []
       indices: 
       edges: []
@@ -176,18 +218,31 @@ TextureImporter:
       name: Panda Verdaderamente Corriendo_3
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
+        x: 5038
+        y: 5086
+        width: 964
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+=======
         x: 5040
         y: 5091
         width: 962
         height: 1255
       alignment: 7
       pivot: {x: 0.5, y: 0}
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
+      spriteID: cb539df95e8106e4da294b53c0dd6b8b
+=======
       spriteID: c58105310ea290d4cbfc3309ebfe8851
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       vertices: []
       indices: 
       edges: []
@@ -200,14 +255,23 @@ TextureImporter:
         y: 5071
         width: 964
         height: 1263
+<<<<<<< HEAD
+      alignment: 0
+      pivot: {x: 0, y: 0}
+=======
       alignment: 7
       pivot: {x: 0.5, y: 0}
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
+      spriteID: 466501e4c01471144b8a2a0690f57f1b
+=======
       spriteID: d8fb8351f4554f54a9cd95bf6553a01e
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       vertices: []
       indices: 
       edges: []
@@ -220,14 +284,23 @@ TextureImporter:
         y: 3502
         width: 964
         height: 1268
+<<<<<<< HEAD
+      alignment: 0
+      pivot: {x: 0, y: 0}
+=======
       alignment: 7
       pivot: {x: 0.5, y: 0}
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
+      spriteID: 49211002639fbbe4186ce3ffb5d2e78d
+=======
       spriteID: cfb3a71bbabf0fd47ac6106c6f97c482
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       vertices: []
       indices: 
       edges: []
@@ -240,14 +313,23 @@ TextureImporter:
         y: 3498
         width: 966
         height: 1284
+<<<<<<< HEAD
+      alignment: 0
+      pivot: {x: 0, y: 0}
+=======
       alignment: 7
       pivot: {x: 0.5, y: 0}
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
+      spriteID: 5b07c470fde17104cabd23970789a022
+=======
       spriteID: 76862f8c6cedc8545914e55ee3b5475a
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       vertices: []
       indices: 
       edges: []
@@ -256,18 +338,31 @@ TextureImporter:
       name: Panda Verdaderamente Corriendo_7
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
+        x: 3458
+        y: 3522
+        width: 966
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+=======
         x: 3492
         y: 3520
         width: 932
         height: 1274
       alignment: 7
       pivot: {x: 0.5, y: 0}
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
+      spriteID: e5e1a13c54f2f614ba178a609fc95e0d
+=======
       spriteID: 37ff87f872f047d4aa80f450f85b82a2
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       vertices: []
       indices: 
       edges: []
@@ -276,18 +371,31 @@ TextureImporter:
       name: Panda Verdaderamente Corriendo_8
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
+        x: 5038
+        y: 3574
+        width: 964
+        height: 1232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+=======
         x: 4999
         y: 3509
         width: 1003
         height: 1297
       alignment: 7
       pivot: {x: 0.5, y: 0}
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
+      spriteID: 60b4d7fadaa12d7459fee0f7e70fdcdd
+=======
       spriteID: 99fc4680a1a2e154c83fc93b25a8eca3
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       vertices: []
       indices: 
       edges: []
@@ -296,18 +404,31 @@ TextureImporter:
       name: Panda Verdaderamente Corriendo_9
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
+        x: 6618
+        y: 3646
+        width: 964
+        height: 1172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+=======
         x: 6610
         y: 3486
         width: 972
         height: 1332
       alignment: 7
       pivot: {x: 0.5, y: 0}
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
+      spriteID: 04e032a6d2c64a647a9feb84a7af77dd
+=======
       spriteID: 14d361b36f27fdf478823b8e0a71ef2c
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       vertices: []
       indices: 
       edges: []
@@ -316,18 +437,31 @@ TextureImporter:
       name: Panda Verdaderamente Corriendo_10
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
+        x: 298
+        y: 2026
+        width: 964
+        height: 1212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+=======
         x: 239
         y: 1910
         width: 1023
         height: 1328
       alignment: 7
       pivot: {x: 0.5, y: 0}
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
+      spriteID: dce5f69442944e848bea98f0f1540659
+=======
       spriteID: 544a0fa956299544ab0549e76729ed0e
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       vertices: []
       indices: 
       edges: []
@@ -336,18 +470,31 @@ TextureImporter:
       name: Panda Verdaderamente Corriendo_11
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
+        x: 1878
+        y: 1986
+        width: 966
+        height: 1240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+=======
         x: 1833
         y: 1910
         width: 1011
         height: 1316
       alignment: 7
       pivot: {x: 0.5, y: 0}
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
+      spriteID: 87190692e5103534fafc8c37f7db0ae8
+=======
       spriteID: f20d46ee6640e434fa77eadc4ddb1fe4
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       vertices: []
       indices: 
       edges: []
@@ -360,14 +507,23 @@ TextureImporter:
         y: 1959
         width: 966
         height: 1255
+<<<<<<< HEAD
+      alignment: 0
+      pivot: {x: 0, y: 0}
+=======
       alignment: 7
       pivot: {x: 0.5, y: 0}
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
+      spriteID: 498d94e73e000d44893685c4ecca6fe0
+=======
       spriteID: 06a8633b22d8c4e49a92c524aa36ddac
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       vertices: []
       indices: 
       edges: []
@@ -380,14 +536,23 @@ TextureImporter:
         y: 1946
         width: 964
         height: 1259
+<<<<<<< HEAD
+      alignment: 0
+      pivot: {x: 0, y: 0}
+=======
       alignment: 7
       pivot: {x: 0.5, y: 0}
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
+      spriteID: 154b3bd1a5dbb4647a3e8a562e187f46
+=======
       spriteID: 40cbd02d5f640c048acd1a0f12f5e340
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       vertices: []
       indices: 
       edges: []
@@ -400,14 +565,23 @@ TextureImporter:
         y: 1930
         width: 964
         height: 1264
+<<<<<<< HEAD
+      alignment: 0
+      pivot: {x: 0, y: 0}
+=======
       alignment: 7
       pivot: {x: 0.5, y: 0}
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
+      spriteID: c8d5a3c9520e3474291d44e1d89185d3
+=======
       spriteID: 6cc1e2b7660658e4fb129dde7b038069
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       vertices: []
       indices: 
       edges: []
@@ -420,14 +594,23 @@ TextureImporter:
         y: 358
         width: 964
         height: 1268
+<<<<<<< HEAD
+      alignment: 0
+      pivot: {x: 0, y: 0}
+=======
       alignment: 7
       pivot: {x: 0.5, y: 0}
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
+      spriteID: 8ea1ad4edf57dbd4fb3cabce2babfcdc
+=======
       spriteID: 89b59c157b3785a4e9a006b07ea4f6a8
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       vertices: []
       indices: 
       edges: []
@@ -437,17 +620,29 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1878
+<<<<<<< HEAD
+        y: 342
+        width: 964
+        height: 1296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+=======
         y: 344
         width: 936
         height: 1294
       alignment: 7
       pivot: {x: 0.5, y: 0}
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
+      spriteID: 1105c78976dc7174eb0358994a88294e
+=======
       spriteID: 029014104f429f842ae942f385bc3cbb
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       vertices: []
       indices: 
       edges: []
@@ -457,17 +652,29 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 3458
+<<<<<<< HEAD
+        y: 362
+        width: 966
+        height: 1284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+=======
         y: 316
         width: 998
         height: 1330
       alignment: 7
       pivot: {x: 0.5, y: 0}
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
+      spriteID: bb82852d4cdf62f4bb2efc523b12f33f
+=======
       spriteID: 0e2d5c8fc46edda49ba41997ec738f76
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       vertices: []
       indices: 
       edges: []
@@ -477,17 +684,29 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 5038
+<<<<<<< HEAD
+        y: 422
+        width: 964
+        height: 1236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+=======
         y: 321
         width: 1016
         height: 1337
       alignment: 7
       pivot: {x: 0.5, y: 0}
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
+      spriteID: 3c8036c1a5c17874d91b2607a481e6ee
+=======
       spriteID: d710a9f1485419243a2698fc23f9ba17
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       vertices: []
       indices: 
       edges: []
@@ -497,17 +716,29 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 6618
+<<<<<<< HEAD
+        y: 498
+        width: 964
+        height: 1168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+=======
         y: 310
         width: 979
         height: 1356
       alignment: 7
       pivot: {x: 0.5, y: 0}
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
+      spriteID: 9dfde7af66b644f44b68d320c2e5ab76
+=======
       spriteID: bc0ec52b06428744e809e6fc01890d13
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
       vertices: []
       indices: 
       edges: []
@@ -515,7 +746,11 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
+<<<<<<< HEAD
+    spriteID: d86be6435599c774aa7d30fbd665a097
+=======
     spriteID: e25cc473fbd106940ad635d04da50d61
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
     vertices: []
     indices: 
     edges: []

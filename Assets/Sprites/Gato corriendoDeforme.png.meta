@@ -1,12 +1,26 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+guid: bb04101d16f0fa84f9156aab0891a5ee
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Gato corriendoDeforme_0
+    21300002: Gato corriendoDeforme_1
+    21300004: Gato corriendoDeforme_2
+    21300006: Gato corriendoDeforme_3
+=======
 guid: 68cc12d615d6d7a4a8dbd5f97e766899
 TextureImporter:
   fileIDToRecycleName: {}
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
   externalObjects: {}
   serializedVersion: 5
   mipmaps:
     mipMapMode: 0
+<<<<<<< HEAD
+    enableMipMap: 0
+=======
     enableMipMap: 1
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -32,6 +46,15 @@ TextureImporter:
     filterMode: -1
     aniso: -1
     mipBias: -1
+<<<<<<< HEAD
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+=======
     wrapU: -1
     wrapV: -1
     wrapW: -1
@@ -39,6 +62,7 @@ TextureImporter:
   lightmap: 0
   compressionQuality: 50
   spriteMode: 0
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -47,9 +71,15 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
+<<<<<<< HEAD
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+=======
   alphaIsTransparency: 0
   spriteTessellationDetail: -1
   textureType: 0
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
   textureShape: 1
   singleChannelComponent: 0
   maxTextureSizeSet: 0
@@ -67,6 +97,117 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+<<<<<<< HEAD
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gato corriendoDeforme_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 532
+        width: 296
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c16a63eae83021458b85de23aa68cce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gato corriendoDeforme_1
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 533
+        width: 290
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2103f9e50fa7340acef9e57fd790ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gato corriendoDeforme_2
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 538
+        width: 296
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fad09eebc543640a6d2071b1bdacb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gato corriendoDeforme_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 24
+        width: 299
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311f13b73667837439aea818819890c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0435a24f818ef8f45aea383f4a9c6978
+=======
   spriteSheet:
     serializedVersion: 2
     sprites: []
@@ -74,6 +215,7 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 
+>>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
     vertices: []
     indices: 
     edges: []
