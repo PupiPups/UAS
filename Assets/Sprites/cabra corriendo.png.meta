@@ -1,0 +1,948 @@
+fileFormatVersion: 2
+guid: 6f5417ce0b07c72458e7f42c39da55a3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cabra corriendo_0
+    21300002: cabra corriendo_1
+    21300004: cabra corriendo_2
+    21300006: cabra corriendo_3
+    21300008: cabra corriendo_4
+    21300010: cabra corriendo_5
+    21300012: cabra corriendo_6
+    21300014: cabra corriendo_7
+    21300016: cabra corriendo_8
+    21300018: cabra corriendo_9
+    21300020: cabra corriendo_10
+    21300022: cabra corriendo_11
+    21300024: cabra corriendo_12
+    21300026: cabra corriendo_13
+    21300028: cabra corriendo_14
+    21300030: cabra_corriendo_17
+    21300032: cabra_corriendo_18
+    21300034: cabra_corriendo_19
+    21300036: cabra_corriendo_20
+    21300038: cabra_corriendo_21
+    21300040: cabra_corriendo_22
+    21300042: cabra_corriendo_23
+    21300044: cabra_corriendo_24
+    21300046: cabra_corriendo_25
+    21300048: cabra_corriendo_26
+    21300050: cabra_corriendo_27
+    21300052: cabra_corriendo_35
+    21300054: cabra_corriendo_28
+    21300056: cabra_corriendo_29
+    21300058: cabra_corriendo_30
+    21300060: cabra_corriendo_38
+    21300062: cabra corriendo_31
+    21300064: cabra_corriendo_39
+    21300066: cabra_corriendo_32
+    21300068: cabra_corriendo_33
+    21300070: cabra_corriendo_34
+    21300072: cabra_corriendo_15
+    21300074: cabra_corriendo_16
+    21300076: cabra_corriendo_37
+    21300078: cabra_corriendo_36
+  externalObjects: {}
+  serializedVersion: 6
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cabra corriendo_0
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2100
+        width: 234
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0c1077958b3744cbb910b715584b09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra corriendo_1
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 2099
+        width: 220
+        height: 401
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25675c7c711f17c4a93481dd1f2c18b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra corriendo_2
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 2099
+        width: 208
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac907299b9dea3449a1b0d19bd5725bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra corriendo_3
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 2101
+        width: 192
+        height: 399
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c36560b8cc5ce41b66f6d17a8154d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra corriendo_4
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 2101
+        width: 181
+        height: 390
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcbf7889f0a5d044af8098c3be87870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra corriendo_5
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 2101
+        width: 161
+        height: 399
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ac7d627f4ab3d4f9edfc5896dc4eb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra corriendo_6
+      rect:
+        serializedVersion: 2
+        x: 3497
+        y: 2101
+        width: 158
+        height: 399
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41ff507b566e814090b01a1855cf0fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra corriendo_7
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1697
+        width: 158
+        height: 402
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2806f4b7ec50d4f8b650f5627ae579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra corriendo_8
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1698
+        width: 166
+        height: 401
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7a6dcab3848bd41afef483225d92a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra corriendo_9
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 1698
+        width: 176
+        height: 401
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cd8700b9aff0546a6e423e8ede33a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra corriendo_10
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 1698
+        width: 158
+        height: 401
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e9a6b095a0ea24d9d9b286df403cee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra corriendo_11
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 1697
+        width: 173
+        height: 402
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336edd1004ec277488931b22a1de560c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra corriendo_12
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 1697
+        width: 160
+        height: 402
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f5992bf0da6c54eb098e29eda27df8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra corriendo_13
+      rect:
+        serializedVersion: 2
+        x: 3497
+        y: 1699
+        width: 158
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf88db8a7683c1a4ba4b3cb471965dbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra corriendo_14
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1293
+        width: 158
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba012f42c6f4576489b888e6e6d12eae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra_corriendo_17
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 1296
+        width: 184
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86464f4b81604db439627d491eead86a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra_corriendo_18
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 1295
+        width: 198
+        height: 401
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a5fb1acbfdb9342a652e25da68d866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra_corriendo_19
+      rect:
+        serializedVersion: 2
+        x: 2939
+        y: 1307
+        width: 208
+        height: 389
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb7bef2064afb54b9c831f4f1cce517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra_corriendo_20
+      rect:
+        serializedVersion: 2
+        x: 3494
+        y: 1296
+        width: 197
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c295bd53aba16944d829d29c06671081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra_corriendo_21
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 907
+        width: 192
+        height: 382
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b4b06f55a9bc942a6d9534d2d68dc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra_corriendo_22
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 906
+        width: 176
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c28addcfa45a1343a8cdccf1189e616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra_corriendo_23
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 903
+        width: 166
+        height: 392
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9649181ef0df84e8f0a8f6821a4473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra_corriendo_24
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 897
+        width: 158
+        height: 396
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e8462ad0ea73f49b429549aa113b1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra_corriendo_25
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 893
+        width: 158
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff86cc7102e327c41a2e6a64b2363413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra_corriendo_26
+      rect:
+        serializedVersion: 2
+        x: 2949
+        y: 894
+        width: 158
+        height: 403
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a840ec3fd377b9e419090333c870e749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra_corriendo_27
+      rect:
+        serializedVersion: 2
+        x: 3497
+        y: 891
+        width: 158
+        height: 402
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9b933c84456264886c77c3d19b5af9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra_corriendo_35
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 63
+        width: 182
+        height: 424
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552531cf23a127c4d8d0212bb7714fe9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra_corriendo_28
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 485
+        width: 158
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc1c66f1ceb3144ebc2d8b235879431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra_corriendo_29
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 490
+        width: 196
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2ba20fdc73b214ea15e6ab278fe26d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra_corriendo_30
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 491
+        width: 212
+        height: 396
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d15ca70c090634a868358b4fd6841f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra_corriendo_38
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 82
+        width: 224
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6513d662dd27bec41b3869130de34f6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra corriendo_31
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 487
+        width: 158
+        height: 403
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57089258622f0d845b5ef13d0e42a1ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra_corriendo_39
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 91
+        width: 233
+        height: 396
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b950ed465ca0c814aa8bdb85f6243a37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra_corriendo_32
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 489
+        width: 158
+        height: 401
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fdf1a288e7f114db73e2bd3d174ced
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra_corriendo_33
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 480
+        width: 158
+        height: 410
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d44e959c5cfe9b4b8fda67806ab9710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra_corriendo_34
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 470
+        width: 164
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7e867d5dcd0cd44971a0efa6fce178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra_corriendo_15
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1303
+        width: 195
+        height: 391
+      alignment: 9
+      pivot: {x: 0.50000024, y: 0.0041383463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fd6ff2c3996c7499c043a54ab396b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra_corriendo_16
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1309
+        width: 174
+        height: 384
+      alignment: 9
+      pivot: {x: 0.5000007, y: 0.002857844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bceb9374b8dac4d84076b26108921d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra_corriendo_37
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 82
+        width: 210
+        height: 401
+      alignment: 9
+      pivot: {x: 0.50870734, y: -0.0024539456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff97bf5e1b4416c438731491fca9f16e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabra_corriendo_36
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 64
+        width: 198
+        height: 419
+      alignment: 9
+      pivot: {x: 0.4856407, y: -0.0029689404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f675d20b0ca904993773317e1f3331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b284906ae9a987640bf3d7cf14881d66
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

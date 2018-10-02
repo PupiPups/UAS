@@ -12,10 +12,7 @@ public class PlayerController : MonoBehaviour {
     private Vector3 offset;
     public Camera camera;
     public GunController gun;
-<<<<<<< HEAD
-=======
     public Transform gunLook;
->>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
 
     void Start()
     {
@@ -27,7 +24,6 @@ public class PlayerController : MonoBehaviour {
     {
         movement = new Vector2(CrossPlatformInputManager.GetAxis("Horizontal"), CrossPlatformInputManager.GetAxis("Vertical"));
         movevelocity = movement * movespeed;
-<<<<<<< HEAD
         lookCam = new Vector3(CrossPlatformInputManager.GetAxis("Horizontal_2"), CrossPlatformInputManager.GetAxis("Vertical_2"),0);
         transform.LookAt(transform.position + lookCam);
         if (CrossPlatformInputManager.GetAxis("Horizontal") <= 0)
@@ -37,11 +33,9 @@ public class PlayerController : MonoBehaviour {
         {
 
         }
-=======
         lookCam = new Vector3(0f,0f, CrossPlatformInputManager.GetAxis("Horizontal_2"));
         gunLook.LookAt(gun.transform.position + lookCam);
         
->>>>>>> 91bdb9e36232b90354d87204dad4ff56cbbdebd9
     }
     void FixedUpdate()
     {

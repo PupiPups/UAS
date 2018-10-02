@@ -3,19 +3,22 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityStandardAssets.CrossPlatformInput;
 
-public class Panda : MonoBehaviour {
-    public string name = "Panda";
+public class Goat : MonoBehaviour
+{
+    public string name = "Goat";
     public float maxHealth = 200;
     public float currentHealth;
     public float speed;
     public GameObject gun;
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
+    // Use this for initialization
+    void Start()
+    {
+
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
         Move();
         Look();
     }
@@ -33,7 +36,6 @@ public class Panda : MonoBehaviour {
     }
     void Abilty()
     {
-        //var hivegenerate = Instantiate("Hive", transform.position, Quaternion rotation);
     }
     void Fire()
     {

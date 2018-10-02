@@ -1,27 +1,27 @@
 fileFormatVersion: 2
-guid: 6e43324d51f2cfb439046c91517c940d
+guid: 8e834236d51c77646bca0fd64c0f9158
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Panda Verdaderamente Corriendo_0
-    21300002: Panda Verdaderamente Corriendo_1
-    21300004: Panda Verdaderamente Corriendo_2
-    21300006: Panda Verdaderamente Corriendo_3
-    21300008: Panda Verdaderamente Corriendo_4
-    21300010: Panda Verdaderamente Corriendo_5
-    21300012: Panda Verdaderamente Corriendo_6
-    21300014: Panda Verdaderamente Corriendo_7
-    21300016: Panda Verdaderamente Corriendo_8
-    21300018: Panda Verdaderamente Corriendo_9
-    21300020: Panda Verdaderamente Corriendo_10
-    21300022: Panda Verdaderamente Corriendo_11
-    21300024: Panda Verdaderamente Corriendo_12
-    21300026: Panda Verdaderamente Corriendo_13
-    21300028: Panda Verdaderamente Corriendo_14
-    21300030: Panda Verdaderamente Corriendo_15
-    21300032: Panda Verdaderamente Corriendo_16
-    21300034: Panda Verdaderamente Corriendo_17
-    21300036: Panda Verdaderamente Corriendo_18
-    21300038: Panda Verdaderamente Corriendo_19
+    21300000: panda CORRIENDO HACIA ATRAS_0
+    21300002: panda CORRIENDO HACIA ATRAS_1
+    21300004: panda CORRIENDO HACIA ATRAS_2
+    21300006: panda CORRIENDO HACIA ATRAS_3
+    21300008: panda CORRIENDO HACIA ATRAS_4
+    21300010: panda CORRIENDO HACIA ATRAS_5
+    21300012: panda CORRIENDO HACIA ATRAS_6
+    21300014: panda CORRIENDO HACIA ATRAS_7
+    21300016: panda CORRIENDO HACIA ATRAS_8
+    21300018: panda CORRIENDO HACIA ATRAS_9
+    21300020: panda CORRIENDO HACIA ATRAS_10
+    21300022: panda CORRIENDO HACIA ATRAS_11
+    21300024: panda CORRIENDO HACIA ATRAS_12
+    21300026: panda CORRIENDO HACIA ATRAS_13
+    21300028: panda CORRIENDO HACIA ATRAS_14
+    21300030: panda CORRIENDO HACIA ATRAS_15
+    21300032: panda CORRIENDO HACIA ATRAS_16
+    21300034: panda CORRIENDO HACIA ATRAS_17
+    21300036: panda CORRIENDO HACIA ATRAS_18
+    21300038: panda CORRIENDO HACIA ATRAS_19
   externalObjects: {}
   serializedVersion: 6
   mipmaps:
@@ -115,13 +115,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_0
+      name: panda CORRIENDO HACIA ATRAS_0
       rect:
         serializedVersion: 2
-        x: 298
-        y: 5113
-        width: 964
-        height: 1269
+        x: 96
+        y: 1750
+        width: 316
+        height: 402
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -129,19 +129,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1bd56b86e4bd76a49816273da6f7dd09
+      spriteID: 641c901b3a2f2734d8da3b4e1b42aa25
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_1
+      name: panda CORRIENDO HACIA ATRAS_1
       rect:
         serializedVersion: 2
-        x: 1878
-        y: 5069
-        width: 965
-        height: 1301
+        x: 616
+        y: 1747
+        width: 315
+        height: 405
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -149,19 +149,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 46b9c349a5357d7488b7f3174f097b1c
+      spriteID: 8c15e94570e645747af3d273573f6893
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_2
+      name: panda CORRIENDO HACIA ATRAS_2
       rect:
         serializedVersion: 2
-        x: 3465
-        y: 5069
-        width: 965
-        height: 1282
+        x: 1136
+        y: 1747
+        width: 316
+        height: 405
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -169,19 +169,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e7c175147799d54db788911e6a637bb
+      spriteID: 1709b13cbd9f03a4c95caa593df2d452
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_3
+      name: panda CORRIENDO HACIA ATRAS_3
       rect:
         serializedVersion: 2
-        x: 5038
-        y: 5086
-        width: 964
-        height: 1260
+        x: 1656
+        y: 1746
+        width: 316
+        height: 406
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -189,19 +189,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e1d197d3377f3894d88c3a691c4c7d16
+      spriteID: 6d4da022880850a458d24db084cad998
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_4
+      name: panda CORRIENDO HACIA ATRAS_4
       rect:
         serializedVersion: 2
-        x: 6618
-        y: 5071
-        width: 964
-        height: 1263
+        x: 2177
+        y: 1750
+        width: 314
+        height: 402
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -209,19 +209,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c1bcb2db862b5894d92277efe8c1c4a8
+      spriteID: 158933e427984fb47a39a2b7c869a733
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_5
+      name: panda CORRIENDO HACIA ATRAS_5
       rect:
         serializedVersion: 2
-        x: 298
-        y: 3502
-        width: 964
-        height: 1268
+        x: 96
+        y: 1230
+        width: 316
+        height: 403
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -229,19 +229,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e70c50230f6e4e542b16c0ab7eacdb62
+      spriteID: bedb71320c8aec442b65cfd438e56f35
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_6
+      name: panda CORRIENDO HACIA ATRAS_6
       rect:
         serializedVersion: 2
-        x: 1878
-        y: 3498
-        width: 965
-        height: 1284
+        x: 616
+        y: 1227
+        width: 316
+        height: 406
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -249,19 +249,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5bcc20cc02f64184fb1db20059eacce9
+      spriteID: 5bad667554d62d64aa61d41737103b6b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_7
+      name: panda CORRIENDO HACIA ATRAS_7
       rect:
         serializedVersion: 2
-        x: 3458
-        y: 3505
-        width: 965
-        height: 1289
+        x: 1137
+        y: 1226
+        width: 315
+        height: 407
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -269,19 +269,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f7955a650840cdd45840b0680ee058b4
+      spriteID: 3f61ffddb56142b4aa9d3474e530a5ef
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_8
+      name: panda CORRIENDO HACIA ATRAS_8
       rect:
         serializedVersion: 2
-        x: 5038
-        y: 3520
-        width: 964
-        height: 1286
+        x: 1657
+        y: 1227
+        width: 315
+        height: 406
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -289,19 +289,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a6f0d419593c49740a3e9c115a495ae3
+      spriteID: 8b1762a2c72db2145b51219091811d32
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_9
+      name: panda CORRIENDO HACIA ATRAS_9
       rect:
         serializedVersion: 2
-        x: 6618
-        y: 3542
-        width: 964
-        height: 1276
+        x: 2177
+        y: 1230
+        width: 316
+        height: 403
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -309,19 +309,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 02ac75c4308d96e41b0b8b95ce94a14b
+      spriteID: bf6dc635724de2348a256dc171094eca
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_10
+      name: panda CORRIENDO HACIA ATRAS_10
       rect:
         serializedVersion: 2
-        x: 298
-        y: 1967
-        width: 964
-        height: 1264
+        x: 97
+        y: 708
+        width: 316
+        height: 405
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -329,19 +329,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 00c718ac82374f44eba6ca8bfae51ca9
+      spriteID: 5ed0adb9a4aacf34b982df93e5e54a18
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_11
+      name: panda CORRIENDO HACIA ATRAS_11
       rect:
         serializedVersion: 2
-        x: 1878
-        y: 1945
-        width: 965
-        height: 1281
+        x: 618
+        y: 706
+        width: 314
+        height: 407
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -349,19 +349,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c68adbd261335a49ab7bc2e8b785338
+      spriteID: 79936086568e19a4cb7e70e30cb226e8
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_12
+      name: panda CORRIENDO HACIA ATRAS_12
       rect:
         serializedVersion: 2
-        x: 3465
-        y: 1959
-        width: 965
-        height: 1255
+        x: 1138
+        y: 705
+        width: 315
+        height: 408
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -369,19 +369,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 50ff6136af264a241b83a7c819a9e408
+      spriteID: 258918cf143461545add514aa4c141ed
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_13
+      name: panda CORRIENDO HACIA ATRAS_13
       rect:
         serializedVersion: 2
-        x: 5038
-        y: 1946
-        width: 964
-        height: 1259
+        x: 1659
+        y: 705
+        width: 314
+        height: 407
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -389,19 +389,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a439d950974da264199cce755bf04935
+      spriteID: 2f71b895afea9eb4f925849b3f2919b8
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_14
+      name: panda CORRIENDO HACIA ATRAS_14
       rect:
         serializedVersion: 2
-        x: 6618
-        y: 1930
-        width: 964
-        height: 1264
+        x: 2179
+        y: 708
+        width: 315
+        height: 405
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -409,19 +409,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 82facc4861826e74a922bd262c9473f7
+      spriteID: 2a3d568c82603624d8d44b785e9d576b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_15
+      name: panda CORRIENDO HACIA ATRAS_15
       rect:
         serializedVersion: 2
-        x: 298
-        y: 358
-        width: 964
-        height: 1268
+        x: 99
+        y: 186
+        width: 314
+        height: 406
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -429,19 +429,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e756607d0daf67245bb25234503ae1cc
+      spriteID: f99ee7c929a516046a9a35f731851d3f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_16
+      name: panda CORRIENDO HACIA ATRAS_16
       rect:
         serializedVersion: 2
-        x: 1878
-        y: 356
-        width: 964
-        height: 1282
+        x: 618
+        y: 186
+        width: 316
+        height: 406
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -449,19 +449,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 19584031c30369b43a53d955168beac0
+      spriteID: ee3f9a0ebf8465c48903db724e316aa3
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_17
+      name: panda CORRIENDO HACIA ATRAS_17
       rect:
         serializedVersion: 2
-        x: 3458
-        y: 341
-        width: 965
-        height: 1305
+        x: 1138
+        y: 186
+        width: 315
+        height: 406
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -469,19 +469,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d28fc366dfda1284382c85b32edae525
+      spriteID: acda0a4f097567a43b07250a7aa1138c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_18
+      name: panda CORRIENDO HACIA ATRAS_18
       rect:
         serializedVersion: 2
-        x: 5038
-        y: 375
-        width: 964
-        height: 1276
+        x: 1656
+        y: 187
+        width: 316
+        height: 405
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -489,19 +489,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 66e8934551182a84faf57d2fc6e8d368
+      spriteID: 9b7e17b291edfd04eba482e70d14a8a2
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_19
+      name: panda CORRIENDO HACIA ATRAS_19
       rect:
         serializedVersion: 2
-        x: 6625
-        y: 398
-        width: 964
-        height: 1268
+        x: 2177
+        y: 190
+        width: 314
+        height: 402
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -509,7 +509,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f364a609b4dbb3641b7580debcaecbbe
+      spriteID: afdbcfa284dbace4c9dbca7f01f07fd4
       vertices: []
       indices: 
       edges: []
@@ -517,7 +517,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 8d162faa68daea6458b6e39f7b7cd3eb
+    spriteID: 211294ecc09c22c459a6f1a4f2e8a1fa
     vertices: []
     indices: 
     edges: []

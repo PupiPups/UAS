@@ -1,27 +1,22 @@
 fileFormatVersion: 2
-guid: 6e43324d51f2cfb439046c91517c940d
+guid: a6f03d6697c032943901a2c8b2b5155b
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Panda Verdaderamente Corriendo_0
-    21300002: Panda Verdaderamente Corriendo_1
-    21300004: Panda Verdaderamente Corriendo_2
-    21300006: Panda Verdaderamente Corriendo_3
-    21300008: Panda Verdaderamente Corriendo_4
-    21300010: Panda Verdaderamente Corriendo_5
-    21300012: Panda Verdaderamente Corriendo_6
-    21300014: Panda Verdaderamente Corriendo_7
-    21300016: Panda Verdaderamente Corriendo_8
-    21300018: Panda Verdaderamente Corriendo_9
-    21300020: Panda Verdaderamente Corriendo_10
-    21300022: Panda Verdaderamente Corriendo_11
-    21300024: Panda Verdaderamente Corriendo_12
-    21300026: Panda Verdaderamente Corriendo_13
-    21300028: Panda Verdaderamente Corriendo_14
-    21300030: Panda Verdaderamente Corriendo_15
-    21300032: Panda Verdaderamente Corriendo_16
-    21300034: Panda Verdaderamente Corriendo_17
-    21300036: Panda Verdaderamente Corriendo_18
-    21300038: Panda Verdaderamente Corriendo_19
+    21300000: Panda Ability_0
+    21300002: Panda Ability_1
+    21300004: Panda Ability_2
+    21300006: Panda Ability_3
+    21300008: Panda Ability_4
+    21300010: Panda Ability_5
+    21300012: Panda Ability_6
+    21300014: Panda Ability_7
+    21300016: Panda Ability_8
+    21300018: Panda Ability_9
+    21300020: Panda Ability_10
+    21300022: Panda Ability_11
+    21300024: Panda Ability_12
+    21300026: Panda Ability_13
+    21300028: Panda Ability_14
   externalObjects: {}
   serializedVersion: 6
   mipmaps:
@@ -115,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_0
+      name: Panda Ability_0
       rect:
         serializedVersion: 2
-        x: 298
-        y: 5113
-        width: 964
-        height: 1269
+        x: 110
+        y: 1122
+        width: 369
+        height: 389
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -129,19 +124,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1bd56b86e4bd76a49816273da6f7dd09
+      spriteID: 0ebb2e7b9a9402a47a53f13b2844772f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_1
+      name: Panda Ability_1
       rect:
         serializedVersion: 2
-        x: 1878
-        y: 5069
-        width: 965
-        height: 1301
+        x: 624
+        y: 1122
+        width: 347
+        height: 389
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -149,19 +144,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 46b9c349a5357d7488b7f3174f097b1c
+      spriteID: d313878b2375c48448eb7482480c6db9
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_2
+      name: Panda Ability_2
       rect:
         serializedVersion: 2
-        x: 3465
-        y: 5069
-        width: 965
-        height: 1282
+        x: 1138
+        y: 1122
+        width: 316
+        height: 389
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -169,19 +164,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e7c175147799d54db788911e6a637bb
+      spriteID: e3e67cd24f7551b4faf32aaf40418444
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_3
+      name: Panda Ability_3
       rect:
         serializedVersion: 2
-        x: 5038
-        y: 5086
-        width: 964
-        height: 1260
+        x: 1652
+        y: 1122
+        width: 316
+        height: 389
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -189,19 +184,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e1d197d3377f3894d88c3a691c4c7d16
+      spriteID: f25895220d9f88c4580f8353cd4e98d7
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_4
+      name: Panda Ability_4
       rect:
         serializedVersion: 2
-        x: 6618
-        y: 5071
-        width: 964
-        height: 1263
+        x: 2166
+        y: 1122
+        width: 316
+        height: 389
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -209,19 +204,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c1bcb2db862b5894d92277efe8c1c4a8
+      spriteID: 60fade8e4d263724fb068d033bdf24f9
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_5
+      name: Panda Ability_5
       rect:
         serializedVersion: 2
-        x: 298
-        y: 3502
-        width: 964
-        height: 1268
+        x: 103
+        y: 607
+        width: 317
+        height: 390
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -229,19 +224,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e70c50230f6e4e542b16c0ab7eacdb62
+      spriteID: 5e532606714251c4e860e2042be5b65f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_6
+      name: Panda Ability_6
       rect:
         serializedVersion: 2
-        x: 1878
-        y: 3498
-        width: 965
-        height: 1284
+        x: 610
+        y: 607
+        width: 316
+        height: 390
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -249,19 +244,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5bcc20cc02f64184fb1db20059eacce9
+      spriteID: db1351f3c9785ba488b2da9638afa98d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_7
+      name: Panda Ability_7
       rect:
         serializedVersion: 2
-        x: 3458
-        y: 3505
-        width: 965
-        height: 1289
+        x: 1117
+        y: 607
+        width: 317
+        height: 390
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -269,19 +264,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f7955a650840cdd45840b0680ee058b4
+      spriteID: bf50aa71ba4cfb34d83f37c6c003d7ff
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_8
+      name: Panda Ability_8
       rect:
         serializedVersion: 2
-        x: 5038
-        y: 3520
-        width: 964
-        height: 1286
+        x: 1624
+        y: 607
+        width: 316
+        height: 390
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -289,19 +284,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a6f0d419593c49740a3e9c115a495ae3
+      spriteID: c92ffca17b58c214b9e7abe5e7cc8017
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_9
+      name: Panda Ability_9
       rect:
         serializedVersion: 2
-        x: 6618
-        y: 3542
-        width: 964
-        height: 1276
+        x: 2118
+        y: 607
+        width: 330
+        height: 390
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -309,19 +304,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 02ac75c4308d96e41b0b8b95ce94a14b
+      spriteID: 2b749d5ef725ea04bac25f03e364ef89
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_10
+      name: Panda Ability_10
       rect:
         serializedVersion: 2
-        x: 298
-        y: 1967
-        width: 964
-        height: 1264
+        x: 76
+        y: 95
+        width: 313
+        height: 390
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -329,19 +324,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 00c718ac82374f44eba6ca8bfae51ca9
+      spriteID: 0cfdfcd114aa5c1498fecf5e75c4d487
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_11
+      name: Panda Ability_11
       rect:
         serializedVersion: 2
-        x: 1878
-        y: 1945
-        width: 965
-        height: 1281
+        x: 589
+        y: 95
+        width: 314
+        height: 390
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -349,19 +344,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c68adbd261335a49ab7bc2e8b785338
+      spriteID: 3fdbc36a61099f841b6201905562a9c1
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_12
+      name: Panda Ability_12
       rect:
         serializedVersion: 2
-        x: 3465
-        y: 1959
-        width: 965
-        height: 1255
+        x: 1103
+        y: 95
+        width: 314
+        height: 390
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -369,19 +364,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 50ff6136af264a241b83a7c819a9e408
+      spriteID: 31adccd120ea1cc4185780eee625bb99
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_13
+      name: Panda Ability_13
       rect:
         serializedVersion: 2
-        x: 5038
-        y: 1946
-        width: 964
-        height: 1259
+        x: 1614
+        y: 95
+        width: 318
+        height: 390
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -389,19 +384,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a439d950974da264199cce755bf04935
+      spriteID: afecceee89b086e40b980568c50deeda
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_14
+      name: Panda Ability_14
       rect:
         serializedVersion: 2
-        x: 6618
-        y: 1930
-        width: 964
-        height: 1264
+        x: 2131
+        y: 95
+        width: 315
+        height: 390
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -409,107 +404,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 82facc4861826e74a922bd262c9473f7
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_15
-      rect:
-        serializedVersion: 2
-        x: 298
-        y: 358
-        width: 964
-        height: 1268
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e756607d0daf67245bb25234503ae1cc
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_16
-      rect:
-        serializedVersion: 2
-        x: 1878
-        y: 356
-        width: 964
-        height: 1282
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 19584031c30369b43a53d955168beac0
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_17
-      rect:
-        serializedVersion: 2
-        x: 3458
-        y: 341
-        width: 965
-        height: 1305
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d28fc366dfda1284382c85b32edae525
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_18
-      rect:
-        serializedVersion: 2
-        x: 5038
-        y: 375
-        width: 964
-        height: 1276
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 66e8934551182a84faf57d2fc6e8d368
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Panda Verdaderamente Corriendo_19
-      rect:
-        serializedVersion: 2
-        x: 6625
-        y: 398
-        width: 964
-        height: 1268
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f364a609b4dbb3641b7580debcaecbbe
+      spriteID: bed0fe9a8f1e160489502f774dd62c29
       vertices: []
       indices: 
       edges: []
@@ -517,7 +412,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 8d162faa68daea6458b6e39f7b7cd3eb
+    spriteID: e66ebaad41993384fb7eb62f8a835e77
     vertices: []
     indices: 
     edges: []

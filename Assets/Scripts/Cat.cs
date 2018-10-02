@@ -3,19 +3,22 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityStandardAssets.CrossPlatformInput;
 
-public class Panda : MonoBehaviour {
-    public string name = "Panda";
+public class Cat : MonoBehaviour
+{
+    public string name = "Cat";
     public float maxHealth = 200;
     public float currentHealth;
     public float speed;
     public GameObject gun;
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
+    // Use this for initialization
+    void Start()
+    {
+
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
         Move();
         Look();
     }
@@ -31,9 +34,10 @@ public class Panda : MonoBehaviour {
         float look = Mathf.Atan2(CrossPlatformInputManager.GetAxis("Vertical_2"), CrossPlatformInputManager.GetAxis("Horizontal_2")) * Mathf.Rad2Deg;
         gun.transform.rotation = Quaternion.Euler(0f, 0f, look);
     }
-    void Abilty()
+    void Ability()
     {
-        //var hivegenerate = Instantiate("Hive", transform.position, Quaternion rotation);
+        
+
     }
     void Fire()
     {

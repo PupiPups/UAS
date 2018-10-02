@@ -1,11 +1,7 @@
 fileFormatVersion: 2
-guid: bb04101d16f0fa84f9156aab0891a5ee
+guid: 0ebe9607d301578438d505713bac97f6
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Gato corriendoDeforme_0
-    21300002: Gato corriendoDeforme_1
-    21300004: Gato corriendoDeforme_2
-    21300006: Gato corriendoDeforme_3
+  fileIDToRecycleName: {}
   externalObjects: {}
   serializedVersion: 6
   mipmaps:
@@ -44,11 +40,11 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
-  alignment: 0
-  spritePivot: {x: 0.5, y: 0.5}
+  alignment: 9
+  spritePivot: {x: 0.7398589, y: 0.36907667}
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
@@ -97,91 +93,11 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: Gato corriendoDeforme_0
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 532
-        width: 296
-        height: 477
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eb759150f223c7e4095d6feaabd8f15d
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Gato corriendoDeforme_1
-      rect:
-        serializedVersion: 2
-        x: 324
-        y: 533
-        width: 290
-        height: 476
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6ce9caf45b2eb8f4abc597062bd81e48
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Gato corriendoDeforme_2
-      rect:
-        serializedVersion: 2
-        x: 629
-        y: 538
-        width: 296
-        height: 471
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b14b558b3a00c9f46a9f46b3f4679b91
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Gato corriendoDeforme_3
-      rect:
-        serializedVersion: 2
-        x: 14
-        y: 24
-        width: 299
-        height: 493
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eccf3c11b2053f04383abc0b36a3d756
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 2188344a954b6704b8220dc7dd512c30
+    spriteID: 4ed8921964a2496479ca64e35f5cb321
     vertices: []
     indices: 
     edges: []
